@@ -5,8 +5,10 @@ Previously, I honed my skills in SvelteKit and am now venturing into the world o
 
 Front-End:
 ---------------
-JavaScript 
-HTML
+JavaScript  
+
+Html
+
 CSS (Tailwind)
 
 Mobile:
@@ -14,16 +16,16 @@ Mobile:
 Flutter
 Frameworks/Libraries:
 ---------------
-Primary: React (learning)
+Primary: React (learning),
 Previous: SvelteKit (experienced)
 
 Back-End:
 ---------------
-Python (beginner)
+Python (beginner),
 Spring (beginner)
 
 Learning:
 ---------------
-React
+React,
 Python
 
