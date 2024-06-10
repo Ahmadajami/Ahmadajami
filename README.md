@@ -1,4 +1,4 @@
-# Hi there! I'm Ahmad al ajami,
+# Hi there! I'm Ahmad Alajami,
 
   a passionate JavaScript developer with experience in building web and mobile applications.
 
