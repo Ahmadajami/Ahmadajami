@@ -1,41 +1,36 @@
-Hi there!  I'm Ahmad al ajami, 
----------------
-a passionate JavaScript developer with experience in building web and mobile applications.   
+# Hi there! I'm Ahmad al ajami,
 
-I'm currently focused on mastering Flutter for mobile development and actively learning React to expand my skillset.  
+-   a passionate JavaScript developer with experience in building web and mobile applications.
 
-Previously, I honed my skills in SvelteKit and am now venturing into the world of Python.  
+-   I'm currently focused on mastering Flutter for mobile development and actively learning React to expand my skillset.
 
----------------
+-   Previously, I honed my skills in SvelteKit and am now venturing into the world of Python.
 
-Front-End:
----------------
-JavaScript  
+---
 
-Html
+# Front-End:
 
-CSS (Tailwind)
+-   JavaScript.
+-   HTML.
+-   CSS (Tailwind).
 
-Mobile:
----------------
-Flutter  
+# Mobile:
 
-  
-Frameworks/Libraries:
----------------
-Primary: React (learning),  
+-   Flutter.
 
-Previous: SvelteKit (experienced)
+# Frameworks/Libraries:
 
-Back-End:
----------------
-Python (beginner),  
+-   Primary: React (learning).
 
-Spring (beginner)
+-   Previous: SvelteKit (experienced).
 
-Learning:
----------------
-React,  
+# Back-End:
 
-Python
+-   Python (beginner).
 
+-   Spring (beginner).
+
+# Learning:
+
+-   React.
+-   Python.
