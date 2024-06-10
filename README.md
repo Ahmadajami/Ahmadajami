@@ -1,10 +1,7 @@
-# Hi there! I'm Ahmad Alajami,
+# Hi there! I'm Ahmad Alajami 👋
 
-  a passionate JavaScript developer with experience in building web and mobile applications.
-
-  I'm currently focused on mastering Flutter for mobile development and actively learning React to expand my skillset.
-
-  Previously, I honed my skills in SvelteKit and am now venturing into the world of Python.
+- Frontend Developer
+- Mobile Developer
 
 ---
 
@@ -26,8 +23,9 @@
 
 # Back-End:
 
+-   PocketBase.
+-   FireBase.
 -   Python (beginner).
-
 -   Spring (beginner).
 
 # Learning:
