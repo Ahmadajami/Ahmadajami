@@ -7,9 +7,11 @@
 
 # Front-End:
 
--   JavaScript.
--   HTML.
--   CSS (Tailwind).
+-    JavaScript.
+-    SvelteKit.
+-    Vue.js
+-    HTML.
+-    CSS (Tailwind).
 
 # Mobile:
 
@@ -17,7 +19,7 @@
 
 # Frameworks/Libraries:
 
--   Primary: React (learning).
+-   Primary: Vue.js (learning).
 
 -   Previous: SvelteKit (experienced).
 
@@ -30,5 +32,5 @@
 
 # Learning:
 
--   React.
+-   Vue.js .
 -   Python.
