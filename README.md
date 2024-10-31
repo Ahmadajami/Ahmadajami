@@ -1,5 +1,5 @@
 # 💫 About Me:
-# Hi there! 👋 I'm Ahmad alajami<br><br> # 🌱 I’m currently learning<br>- Vue.js.<br>- React.<br>- FLutter Testing.<br><br> # 💬 Ask me about<br>-Svelte .<br>- Flutter.<br>
+# Hi there! 👋 I'm Ahmad alajami<br><br>  🌱 I’m currently learning<br>- Vue.js.<br>- React.<br>- FLutter Testing.<br><br>  💬 Ask me about<br>-Svelte .<br>- Flutter.<br>
 
 
 # 💻 Tech Stack:
